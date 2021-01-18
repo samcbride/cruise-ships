@@ -1,12 +1,12 @@
 # All Aboard!
 
-Thanks for dropping by dock. [Hop aboard](https://ironmongrrrl.github.io/cruise-ships/), list the ports you’d like to cruise to and away we’ll go! 
+Thanks for dropping by dock. [Hop aboard](https://samcbride.github.io/cruise-ships/), list the ports you’d like to cruise to and away we’ll go! 
 
 ## Overview of the Project
 
 This was one of the main projects on the Manchester Codes bootcamp. It was an exercise in object-oriented programming, through initially exploring user stories and domain modelling. It was extremely satisfying working with a GUI and being able to actively see changes we were making in the JavaScript, HTML and CSS. 
 
-The entire project was pair-programmed between myself and [Shona McBride](https://github.com/samcbride); we had a great time doing it and a lot of laughs! Probably too many laughs on reflection!
+The entire project was pair-programmed between myself and [Lucy Ironmonger](https://github.com/ironmongrrrl); we had a great time doing it and a lot of laughs! Probably too many laughs on reflection!
 
 ***
 
