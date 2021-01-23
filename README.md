@@ -66,5 +66,5 @@ As OOP inherently is interlinked with other objects, using mocks was important t
  
 ## Acknowledgments
 
-Thanks to the [Manchester Codes](https://manchestercodes.com/software-engineer-fasttrack) team for all the support and knowledge so far: Ersel, Susana, Rui, Gareth, Tom, Ian and more. And my pair programming partner Shona, of course! 
+Thanks to the [Manchester Codes](https://manchestercodes.com/software-engineer-fasttrack) team for all the support and knowledge so far: Ersel, Susana, Rui, Gareth, Tom, Ian and more. And my pair programming partner Lucy, of course! 
 
