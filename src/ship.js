@@ -3,8 +3,9 @@
     this.itinerary = itinerary;
     this.currentPort = itinerary.ports[0];
     this.previousPort = null;
+    this.currentPort.addShip(this);
   }
-
+  
   setSail() {
     const currentPortIndex = this.itinerary.ports.indexOf(this.currentPort);
     if (currentPortIndex === this.itinerary.ports.length - 1) {

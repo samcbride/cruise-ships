@@ -12,7 +12,7 @@ describe("Port constructor", () => {
 
   it("has a currentPort property", () => {
     port = new Port("Dover");
-    expect(port.currentPort).toEqual("Dover");
+    expect(port.name).toEqual("Dover");
   });
 });
 
