@@ -12,15 +12,16 @@ describe("Port constructor", () => {
 
   it("has a currentPort property", () => {
     port = new Port("Dover");
-    expect(port.name).toEqual("Dover");
+    expect(port.currentPort).toEqual("Dover");
+    // expect(port.name).toEqual("Dover");
   });
 });
 
 describe("addShip", () => {
   it("add ship to ships property when it docks at port", () => {
     port = {
-      removeShip: jest.fn(), 
-      addShip: jest.fn(), 
+      removeShip: jest.fn(),
+      addShip: jest.fn(),
     };
     skegness = {
       ...port,
